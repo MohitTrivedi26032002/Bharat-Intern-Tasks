@@ -1,2 +1,1 @@
-# Bharat-Intern-Tasks
-Task 1 content management tool
+# Task 1 content management tool Bharat-Intern-Tasks
